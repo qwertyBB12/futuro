@@ -1,0 +1,5 @@
+
+baseURL = "https://futuro.ngo/"
+languageCode = "en-us"
+title = "Futuro.ngo"
+enableRobotsTXT = true
